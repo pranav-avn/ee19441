@@ -3,7 +3,7 @@ Linear Integrated Circuits and Applications
 Course files
 
 ## Datasheets
-- [IC 741](https://github.com/pranav-avn/ee19441/blob/main/Datasheets/IC741.pdf)
+- [IC 741](https://github.com/pranav-avn/ee19441/blob/main/Datasheets/ua741.pdf)
 - [555 Timer](https://github.com/pranav-avn/ee19441/blob/main/Datasheets/555-Timer-Datasheet.pdf)
 - [566 VCO](https://github.com/pranav-avn/ee19441/blob/main/Datasheets/LM566C.PDF)
 - [565 PLL](https://github.com/pranav-avn/ee19441/blob/main/Datasheets/565PLL.pdf)
